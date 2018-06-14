@@ -30,7 +30,6 @@ public class ReporteCanje extends AppCompatActivity {
     private CanjeVo canjeVo;
     private PremioVo premioVoTest;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
