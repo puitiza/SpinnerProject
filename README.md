@@ -1,17 +1,10 @@
-# SpinnerProject
+# SpinnerProject  
 
+Images / Preview  
 
-Preview  
-
-Preview 1             	 |
-:-----------------------:|
-<img src="https://github.com/puitiza/SpinnerProject/blob/master/preview/gifs/parte1.gif?raw=true" width="50%"  /> |  
-
-Images  
-
-Imagen 1             	   |  Imagen 2	        				|
-:-----------------------:|:-------------------------: |
-![alt text][logo1] 		   |![alt text][logo2] 	    		|
+Imagen 1             	   |  Imagen 2	        				| Preview 1             	 |
+:-----------------------:|:-------------------------: |:-----------------------:|
+![alt text][logo1] 		   |![alt text][logo2] 	    		|<img src="https://github.com/puitiza/SpinnerProject/blob/master/preview/gifs/parte1.gif?raw=true" width="50%"  /> |  
 
 
 [logo1]: https://github.com/puitiza/SpinnerProject/blob/master/preview/Imagenes/1.png?raw=true
